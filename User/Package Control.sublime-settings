@@ -1,0 +1,40 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AdvancedNewFile",
+		"Alignment",
+		"All Autocomplete",
+		"AutoFileName",
+		"Boxy Theme",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"CSS3",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"HTML-CSS-JS Prettify",
+		"HTML5",
+		"jQuery",
+		"Laravel Blade Highlighter",
+		"Material Theme",
+		"Package Control",
+		"Phpcs",
+		"Predawn",
+		"Pretty JSON",
+		"Sass",
+		"SFTP",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-csslint",
+		"SublimeLinter-jshint",
+		"SublimeLinter-php",
+		"Theme - Soda",
+		"Theme - Spacegray"
+	]
+}
