@@ -1,0 +1,14 @@
+{
+
+    "php_cs_fixer_executable_path": "/home/lubuntu/.composer/vendor/bin/php-cs-fixer",
+    // "php_cs_fixer_executable_path": "/home/lubuntu/Desktop/work/php-cs-fixer.phar",    
+    // "php_cs_fixer_show_quick_panel": true,
+    "php_cs_fixer_additional_args": {
+    	"--config":"/home/lubuntu/Desktop/work/Laravel-v2.php_cs"
+    },
+}
+
+
+// --config-file=/home/lubuntu/Downloads/laravel-php-cs-fixer.php_cs
+
+// /home/lubuntu/Desktop/work/Laravel-v2.php_cs
