@@ -1,8 +1,9 @@
 {
-
-    "php_cs_fixer_executable_path": "/home/lubuntu/.composer/vendor/bin/php-cs-fixer",
+	"phpcs_executable_path": "/home/umesh/.composer/vendor/bin/phpcs",
+	"phpcs_execute_on_save": false,
+    "php_cs_fixer_executable_path": "/home/umesh/.composer/vendor/bin/php-cs-fixer",
     "php_cs_fixer_additional_args": {
-    	"--config":"/home/lubuntu/Desktop/work/Laravel-v2.php_cs"
+    	"--config":"/var/www/example.com/Laravel-v2.php_cs"
     },    
-    "php_cs_fixer_on_save": true,
+    // "php_cs_fixer_on_save": true,
 }

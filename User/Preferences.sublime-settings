@@ -1,6 +1,6 @@
 {
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/User/SublimeLinter/One Dark (SL).tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Dracula (SL).tmTheme",
 	"fade_fold_buttons": false,
 	"font_face": "Ubuntu Mono",
 	"font_size": 12.5,
@@ -8,8 +8,16 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
+		"Laravel Blade Highlighter",
 		"Vintage"
 	],
+	"line_padding_bottom": 3,
+	"match_brackets": false,
+	"match_brackets_angle": false,
+	"match_brackets_braces": false,
+	"match_brackets_content": false,
+	"match_brackets_square": false,
+	"match_tags": false,
 	"theme": "One Dark.sublime-theme",
 	"word_wrap": true
 }
