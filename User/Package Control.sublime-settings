@@ -5,7 +5,6 @@
 	],
 	"installed_packages":
 	[
-		"A File Icon",
 		"AdvancedNewFile",
 		"Alignment",
 		"All Autocomplete",
@@ -28,7 +27,6 @@
 		"Laravel Blade Highlighter",
 		"Laravel Blade Spacer",
 		"Markdown Extended",
-		"Markdown Preview",
 		"MarkdownEditing",
 		"Material Theme",
 		"Monokai Extended",
@@ -48,6 +46,7 @@
 		"SublimeLinter-php",
 		"Theme - One Dark",
 		"Theme - Soda",
-		"Theme - Spacegray"
+		"Theme - Spacegray",
+		"MarkdownPreview"
 	]
 }
